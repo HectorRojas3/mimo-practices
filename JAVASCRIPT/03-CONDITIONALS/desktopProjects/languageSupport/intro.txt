@@ -1,0 +1,4 @@
+A major greeting card company wants to provide support for different languages on their website.
+
+Let's help them out by updating a message variable 
+to different messages depending on the language a user requests.

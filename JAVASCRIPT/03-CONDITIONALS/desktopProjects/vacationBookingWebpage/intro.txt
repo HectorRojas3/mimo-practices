@@ -1,0 +1,5 @@
+Let's practice our skills of creating variables and using conditional statements in a project. 
+Here's a sneak peek.
+
+We'll use JavaScript to check the user's accommodation requirements 
+against the accommodation listing details to see if there's a match.

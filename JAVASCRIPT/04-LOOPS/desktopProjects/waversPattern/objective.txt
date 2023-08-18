@@ -1,0 +1,8 @@
+Project
+Waves Pattern
+
+A developer tried displaying an asterisk * and tildes ~ in the console 
+to simulate a beach. The * for the sun and the ~ for the waves.
+
+Unfortunately, they made a few mistakes using a while loop to display the waves,
+so we'll help them out.

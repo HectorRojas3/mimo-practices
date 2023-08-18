@@ -1,0 +1,8 @@
+A local movie theater is trying to automate some of their 
+ticket pricing and they've hired you as a developer.
+
+They've specified that they need a program 
+that uses the movie goer's age to determine 
+the appropriate ticket price. 
+It should also use conditionals to provide a discount 
+to the theater's members. Let's get started.
